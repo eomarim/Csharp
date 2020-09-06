@@ -11,6 +11,9 @@ namespace BoxingUnboxing
             obj = x; //Boxing;
 
             int y = (int)obj; //Unboxing
+
+            obj = 10.00;
+            double z = (double)obj;
    
         }
     }
