@@ -2,11 +2,16 @@
 
 namespace BoxingUnboxing
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Object obj = null;
+            int x = 10;
+            obj = x; //Boxing;
+
+            int y = (int)obj; //Unboxing
+   
         }
     }
 }
