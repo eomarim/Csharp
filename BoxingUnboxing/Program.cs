@@ -14,7 +14,6 @@ namespace BoxingUnboxing
 
             obj = 10.00;
             double z = (double)obj;
-   
         }
     }
 }

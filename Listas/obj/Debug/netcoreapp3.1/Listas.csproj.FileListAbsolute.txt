@@ -1,0 +1,12 @@
+/Users/eduardomarim/Programacao/CSharp/Listas/obj/Debug/netcoreapp3.1/Listas.csprojAssemblyReference.cache
+/Users/eduardomarim/Programacao/CSharp/Listas/obj/Debug/netcoreapp3.1/Listas.AssemblyInfoInputs.cache
+/Users/eduardomarim/Programacao/CSharp/Listas/obj/Debug/netcoreapp3.1/Listas.AssemblyInfo.cs
+/Users/eduardomarim/Programacao/CSharp/Listas/obj/Debug/netcoreapp3.1/Listas.csproj.CoreCompileInputs.cache
+/Users/eduardomarim/Programacao/CSharp/Listas/bin/Debug/netcoreapp3.1/Listas.deps.json
+/Users/eduardomarim/Programacao/CSharp/Listas/bin/Debug/netcoreapp3.1/Listas.runtimeconfig.json
+/Users/eduardomarim/Programacao/CSharp/Listas/bin/Debug/netcoreapp3.1/Listas.runtimeconfig.dev.json
+/Users/eduardomarim/Programacao/CSharp/Listas/bin/Debug/netcoreapp3.1/Listas.dll
+/Users/eduardomarim/Programacao/CSharp/Listas/bin/Debug/netcoreapp3.1/Listas.pdb
+/Users/eduardomarim/Programacao/CSharp/Listas/obj/Debug/netcoreapp3.1/Listas.dll
+/Users/eduardomarim/Programacao/CSharp/Listas/obj/Debug/netcoreapp3.1/Listas.pdb
+/Users/eduardomarim/Programacao/CSharp/Listas/obj/Debug/netcoreapp3.1/Listas.genruntimeconfig.cache
