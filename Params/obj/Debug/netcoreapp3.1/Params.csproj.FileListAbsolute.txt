@@ -1,0 +1,12 @@
+/Users/eduardomarim/Programacao/CSharp/Params/bin/Debug/netcoreapp3.1/Params.deps.json
+/Users/eduardomarim/Programacao/CSharp/Params/bin/Debug/netcoreapp3.1/Params.runtimeconfig.json
+/Users/eduardomarim/Programacao/CSharp/Params/bin/Debug/netcoreapp3.1/Params.runtimeconfig.dev.json
+/Users/eduardomarim/Programacao/CSharp/Params/bin/Debug/netcoreapp3.1/Params.dll
+/Users/eduardomarim/Programacao/CSharp/Params/bin/Debug/netcoreapp3.1/Params.pdb
+/Users/eduardomarim/Programacao/CSharp/Params/obj/Debug/netcoreapp3.1/Params.csprojAssemblyReference.cache
+/Users/eduardomarim/Programacao/CSharp/Params/obj/Debug/netcoreapp3.1/Params.AssemblyInfoInputs.cache
+/Users/eduardomarim/Programacao/CSharp/Params/obj/Debug/netcoreapp3.1/Params.AssemblyInfo.cs
+/Users/eduardomarim/Programacao/CSharp/Params/obj/Debug/netcoreapp3.1/Params.csproj.CoreCompileInputs.cache
+/Users/eduardomarim/Programacao/CSharp/Params/obj/Debug/netcoreapp3.1/Params.dll
+/Users/eduardomarim/Programacao/CSharp/Params/obj/Debug/netcoreapp3.1/Params.pdb
+/Users/eduardomarim/Programacao/CSharp/Params/obj/Debug/netcoreapp3.1/Params.genruntimeconfig.cache

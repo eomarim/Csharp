@@ -1,0 +1,12 @@
+/Users/eduardomarim/Programacao/CSharp/Nullables/obj/Debug/netcoreapp3.1/Nullables.csprojAssemblyReference.cache
+/Users/eduardomarim/Programacao/CSharp/Nullables/obj/Debug/netcoreapp3.1/Nullables.AssemblyInfoInputs.cache
+/Users/eduardomarim/Programacao/CSharp/Nullables/obj/Debug/netcoreapp3.1/Nullables.AssemblyInfo.cs
+/Users/eduardomarim/Programacao/CSharp/Nullables/obj/Debug/netcoreapp3.1/Nullables.csproj.CoreCompileInputs.cache
+/Users/eduardomarim/Programacao/CSharp/Nullables/bin/Debug/netcoreapp3.1/Nullables.deps.json
+/Users/eduardomarim/Programacao/CSharp/Nullables/bin/Debug/netcoreapp3.1/Nullables.runtimeconfig.json
+/Users/eduardomarim/Programacao/CSharp/Nullables/bin/Debug/netcoreapp3.1/Nullables.runtimeconfig.dev.json
+/Users/eduardomarim/Programacao/CSharp/Nullables/bin/Debug/netcoreapp3.1/Nullables.dll
+/Users/eduardomarim/Programacao/CSharp/Nullables/bin/Debug/netcoreapp3.1/Nullables.pdb
+/Users/eduardomarim/Programacao/CSharp/Nullables/obj/Debug/netcoreapp3.1/Nullables.dll
+/Users/eduardomarim/Programacao/CSharp/Nullables/obj/Debug/netcoreapp3.1/Nullables.pdb
+/Users/eduardomarim/Programacao/CSharp/Nullables/obj/Debug/netcoreapp3.1/Nullables.genruntimeconfig.cache
