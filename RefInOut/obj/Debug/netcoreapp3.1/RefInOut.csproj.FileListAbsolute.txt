@@ -1,0 +1,12 @@
+/Users/eduardomarim/Programacao/CSharp/RefInOut/obj/Debug/netcoreapp3.1/RefInOut.csprojAssemblyReference.cache
+/Users/eduardomarim/Programacao/CSharp/RefInOut/obj/Debug/netcoreapp3.1/RefInOut.AssemblyInfoInputs.cache
+/Users/eduardomarim/Programacao/CSharp/RefInOut/obj/Debug/netcoreapp3.1/RefInOut.AssemblyInfo.cs
+/Users/eduardomarim/Programacao/CSharp/RefInOut/obj/Debug/netcoreapp3.1/RefInOut.csproj.CoreCompileInputs.cache
+/Users/eduardomarim/Programacao/CSharp/RefInOut/bin/Debug/netcoreapp3.1/RefInOut.deps.json
+/Users/eduardomarim/Programacao/CSharp/RefInOut/bin/Debug/netcoreapp3.1/RefInOut.runtimeconfig.json
+/Users/eduardomarim/Programacao/CSharp/RefInOut/bin/Debug/netcoreapp3.1/RefInOut.runtimeconfig.dev.json
+/Users/eduardomarim/Programacao/CSharp/RefInOut/bin/Debug/netcoreapp3.1/RefInOut.dll
+/Users/eduardomarim/Programacao/CSharp/RefInOut/bin/Debug/netcoreapp3.1/RefInOut.pdb
+/Users/eduardomarim/Programacao/CSharp/RefInOut/obj/Debug/netcoreapp3.1/RefInOut.dll
+/Users/eduardomarim/Programacao/CSharp/RefInOut/obj/Debug/netcoreapp3.1/RefInOut.pdb
+/Users/eduardomarim/Programacao/CSharp/RefInOut/obj/Debug/netcoreapp3.1/RefInOut.genruntimeconfig.cache
