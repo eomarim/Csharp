@@ -1,0 +1,12 @@
+/Users/eduardomarim/Programacao/CSharp/Matrizes2/obj/Debug/netcoreapp3.1/Matrizes2.csprojAssemblyReference.cache
+/Users/eduardomarim/Programacao/CSharp/Matrizes2/obj/Debug/netcoreapp3.1/Matrizes2.AssemblyInfoInputs.cache
+/Users/eduardomarim/Programacao/CSharp/Matrizes2/obj/Debug/netcoreapp3.1/Matrizes2.AssemblyInfo.cs
+/Users/eduardomarim/Programacao/CSharp/Matrizes2/obj/Debug/netcoreapp3.1/Matrizes2.csproj.CoreCompileInputs.cache
+/Users/eduardomarim/Programacao/CSharp/Matrizes2/bin/Debug/netcoreapp3.1/Matrizes2.deps.json
+/Users/eduardomarim/Programacao/CSharp/Matrizes2/bin/Debug/netcoreapp3.1/Matrizes2.runtimeconfig.json
+/Users/eduardomarim/Programacao/CSharp/Matrizes2/bin/Debug/netcoreapp3.1/Matrizes2.runtimeconfig.dev.json
+/Users/eduardomarim/Programacao/CSharp/Matrizes2/bin/Debug/netcoreapp3.1/Matrizes2.dll
+/Users/eduardomarim/Programacao/CSharp/Matrizes2/bin/Debug/netcoreapp3.1/Matrizes2.pdb
+/Users/eduardomarim/Programacao/CSharp/Matrizes2/obj/Debug/netcoreapp3.1/Matrizes2.dll
+/Users/eduardomarim/Programacao/CSharp/Matrizes2/obj/Debug/netcoreapp3.1/Matrizes2.pdb
+/Users/eduardomarim/Programacao/CSharp/Matrizes2/obj/Debug/netcoreapp3.1/Matrizes2.genruntimeconfig.cache
