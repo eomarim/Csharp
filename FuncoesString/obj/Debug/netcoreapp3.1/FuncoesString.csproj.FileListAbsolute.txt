@@ -1,0 +1,12 @@
+/Users/eduardomarim/Programacao/CSharp/FuncoesString/bin/Debug/netcoreapp3.1/FuncoesString.deps.json
+/Users/eduardomarim/Programacao/CSharp/FuncoesString/bin/Debug/netcoreapp3.1/FuncoesString.runtimeconfig.json
+/Users/eduardomarim/Programacao/CSharp/FuncoesString/bin/Debug/netcoreapp3.1/FuncoesString.runtimeconfig.dev.json
+/Users/eduardomarim/Programacao/CSharp/FuncoesString/bin/Debug/netcoreapp3.1/FuncoesString.dll
+/Users/eduardomarim/Programacao/CSharp/FuncoesString/bin/Debug/netcoreapp3.1/FuncoesString.pdb
+/Users/eduardomarim/Programacao/CSharp/FuncoesString/obj/Debug/netcoreapp3.1/FuncoesString.csprojAssemblyReference.cache
+/Users/eduardomarim/Programacao/CSharp/FuncoesString/obj/Debug/netcoreapp3.1/FuncoesString.AssemblyInfoInputs.cache
+/Users/eduardomarim/Programacao/CSharp/FuncoesString/obj/Debug/netcoreapp3.1/FuncoesString.AssemblyInfo.cs
+/Users/eduardomarim/Programacao/CSharp/FuncoesString/obj/Debug/netcoreapp3.1/FuncoesString.csproj.CoreCompileInputs.cache
+/Users/eduardomarim/Programacao/CSharp/FuncoesString/obj/Debug/netcoreapp3.1/FuncoesString.dll
+/Users/eduardomarim/Programacao/CSharp/FuncoesString/obj/Debug/netcoreapp3.1/FuncoesString.pdb
+/Users/eduardomarim/Programacao/CSharp/FuncoesString/obj/Debug/netcoreapp3.1/FuncoesString.genruntimeconfig.cache
