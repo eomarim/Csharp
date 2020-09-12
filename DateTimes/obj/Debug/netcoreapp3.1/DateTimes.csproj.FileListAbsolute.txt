@@ -1,0 +1,12 @@
+/Users/eduardomarim/Programacao/CSharp/DateTimes/bin/Debug/netcoreapp3.1/DateTimes.deps.json
+/Users/eduardomarim/Programacao/CSharp/DateTimes/bin/Debug/netcoreapp3.1/DateTimes.runtimeconfig.json
+/Users/eduardomarim/Programacao/CSharp/DateTimes/bin/Debug/netcoreapp3.1/DateTimes.runtimeconfig.dev.json
+/Users/eduardomarim/Programacao/CSharp/DateTimes/bin/Debug/netcoreapp3.1/DateTimes.dll
+/Users/eduardomarim/Programacao/CSharp/DateTimes/bin/Debug/netcoreapp3.1/DateTimes.pdb
+/Users/eduardomarim/Programacao/CSharp/DateTimes/obj/Debug/netcoreapp3.1/DateTimes.csprojAssemblyReference.cache
+/Users/eduardomarim/Programacao/CSharp/DateTimes/obj/Debug/netcoreapp3.1/DateTimes.AssemblyInfoInputs.cache
+/Users/eduardomarim/Programacao/CSharp/DateTimes/obj/Debug/netcoreapp3.1/DateTimes.AssemblyInfo.cs
+/Users/eduardomarim/Programacao/CSharp/DateTimes/obj/Debug/netcoreapp3.1/DateTimes.csproj.CoreCompileInputs.cache
+/Users/eduardomarim/Programacao/CSharp/DateTimes/obj/Debug/netcoreapp3.1/DateTimes.dll
+/Users/eduardomarim/Programacao/CSharp/DateTimes/obj/Debug/netcoreapp3.1/DateTimes.pdb
+/Users/eduardomarim/Programacao/CSharp/DateTimes/obj/Debug/netcoreapp3.1/DateTimes.genruntimeconfig.cache
