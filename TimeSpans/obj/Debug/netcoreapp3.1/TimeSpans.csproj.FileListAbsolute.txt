@@ -1,0 +1,12 @@
+/Users/eduardomarim/Programacao/CSharp/TimeSpans/bin/Debug/netcoreapp3.1/TimeSpans.deps.json
+/Users/eduardomarim/Programacao/CSharp/TimeSpans/bin/Debug/netcoreapp3.1/TimeSpans.runtimeconfig.json
+/Users/eduardomarim/Programacao/CSharp/TimeSpans/bin/Debug/netcoreapp3.1/TimeSpans.runtimeconfig.dev.json
+/Users/eduardomarim/Programacao/CSharp/TimeSpans/bin/Debug/netcoreapp3.1/TimeSpans.dll
+/Users/eduardomarim/Programacao/CSharp/TimeSpans/bin/Debug/netcoreapp3.1/TimeSpans.pdb
+/Users/eduardomarim/Programacao/CSharp/TimeSpans/obj/Debug/netcoreapp3.1/TimeSpans.csprojAssemblyReference.cache
+/Users/eduardomarim/Programacao/CSharp/TimeSpans/obj/Debug/netcoreapp3.1/TimeSpans.AssemblyInfoInputs.cache
+/Users/eduardomarim/Programacao/CSharp/TimeSpans/obj/Debug/netcoreapp3.1/TimeSpans.AssemblyInfo.cs
+/Users/eduardomarim/Programacao/CSharp/TimeSpans/obj/Debug/netcoreapp3.1/TimeSpans.csproj.CoreCompileInputs.cache
+/Users/eduardomarim/Programacao/CSharp/TimeSpans/obj/Debug/netcoreapp3.1/TimeSpans.dll
+/Users/eduardomarim/Programacao/CSharp/TimeSpans/obj/Debug/netcoreapp3.1/TimeSpans.pdb
+/Users/eduardomarim/Programacao/CSharp/TimeSpans/obj/Debug/netcoreapp3.1/TimeSpans.genruntimeconfig.cache
