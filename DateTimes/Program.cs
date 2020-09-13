@@ -73,8 +73,11 @@ namespace DateTimes
                 dateTimeReajustado = dtManualLocal.ToUniversalTime();
 
             System.Console.WriteLine(dateTimeReajustado);
+<<<<<<< HEAD
 
             System.Console.WriteLine("Acrescentado encerramento do programa");
+=======
+>>>>>>> 33fe3449c5b8c55d51436f958073659487085b3d
 
         }
     }
