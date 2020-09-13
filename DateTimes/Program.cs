@@ -49,8 +49,30 @@ namespace DateTimes
 
             System.Console.WriteLine(dtAdd);
 
-            
+            DateTime dataUniversal = DateTime.UtcNow; //Data universal de Greenwich
 
+            DateTime dataLocal = DateTime.Now; //Data Local
+
+            DateTime convertUniversalParaLocal = dataUniversal.ToLocalTime();
+
+            System.Console.WriteLine($"Universal {dataUniversal}, Convertido para Local: {convertUniversalParaLocal}");
+
+            DateTime converteDeLocalToUniversal = dataLocal.ToUniversalTime();
+            System.Console.WriteLine($"Local {dataLocal} para Universal {converteDeLocalToUniversal}");
+
+            DateTime dtManualLocal = new DateTime(2020, 11, 28, 10, 10, 10, DateTimeKind.Local); //Deixando explicito o padrao
+
+            DateTime dtManualUtc = new DateTime(2020, 11, 28, 10, 10, 10, DateTimeKind.Utc); //Padrao explicito
+
+            System.Console.WriteLine($"Data Universal: {dataUniversal}");
+            System.Console.WriteLine($"Data Local: {dataLocal}");
+
+            DateTime dateTimeReajustado = new DateTime();
+
+            if(dtManualLocal.Kind == DateTimeKind.Local)
+                dateTimeReajustado = dtManualLocal.ToUniversalTime();
+
+            System.Console.WriteLine(dateTimeReajustado);
 
         }
     }
