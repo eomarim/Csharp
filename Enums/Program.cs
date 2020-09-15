@@ -21,7 +21,7 @@ namespace Enums
            int numero = (int) Enum.Parse<OrderStatus>("Delivered"); //Outra forma de Parse
            System.Console.WriteLine(numero.ToString());
 
-           OrderStatus os = Enum.Parse<OrderStatus>("Shipped");
+           OrderStatus os = Enum.Parse<OrderStatus>("Shipped"); 
            System.Console.WriteLine(os.ToString());
 
            

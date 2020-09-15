@@ -1,0 +1,12 @@
+/Users/eduardomarim/Programacao/CSharp/Composicao/bin/Debug/netcoreapp3.1/Composicao.deps.json
+/Users/eduardomarim/Programacao/CSharp/Composicao/bin/Debug/netcoreapp3.1/Composicao.runtimeconfig.json
+/Users/eduardomarim/Programacao/CSharp/Composicao/bin/Debug/netcoreapp3.1/Composicao.runtimeconfig.dev.json
+/Users/eduardomarim/Programacao/CSharp/Composicao/bin/Debug/netcoreapp3.1/Composicao.dll
+/Users/eduardomarim/Programacao/CSharp/Composicao/bin/Debug/netcoreapp3.1/Composicao.pdb
+/Users/eduardomarim/Programacao/CSharp/Composicao/obj/Debug/netcoreapp3.1/Composicao.csprojAssemblyReference.cache
+/Users/eduardomarim/Programacao/CSharp/Composicao/obj/Debug/netcoreapp3.1/Composicao.AssemblyInfoInputs.cache
+/Users/eduardomarim/Programacao/CSharp/Composicao/obj/Debug/netcoreapp3.1/Composicao.AssemblyInfo.cs
+/Users/eduardomarim/Programacao/CSharp/Composicao/obj/Debug/netcoreapp3.1/Composicao.csproj.CoreCompileInputs.cache
+/Users/eduardomarim/Programacao/CSharp/Composicao/obj/Debug/netcoreapp3.1/Composicao.dll
+/Users/eduardomarim/Programacao/CSharp/Composicao/obj/Debug/netcoreapp3.1/Composicao.pdb
+/Users/eduardomarim/Programacao/CSharp/Composicao/obj/Debug/netcoreapp3.1/Composicao.genruntimeconfig.cache
