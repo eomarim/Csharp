@@ -1,0 +1,12 @@
+/Users/eduardomarim/Programacao/CSharp/Enums/bin/Debug/netcoreapp3.1/Enums.deps.json
+/Users/eduardomarim/Programacao/CSharp/Enums/bin/Debug/netcoreapp3.1/Enums.runtimeconfig.json
+/Users/eduardomarim/Programacao/CSharp/Enums/bin/Debug/netcoreapp3.1/Enums.runtimeconfig.dev.json
+/Users/eduardomarim/Programacao/CSharp/Enums/bin/Debug/netcoreapp3.1/Enums.dll
+/Users/eduardomarim/Programacao/CSharp/Enums/bin/Debug/netcoreapp3.1/Enums.pdb
+/Users/eduardomarim/Programacao/CSharp/Enums/obj/Debug/netcoreapp3.1/Enums.csprojAssemblyReference.cache
+/Users/eduardomarim/Programacao/CSharp/Enums/obj/Debug/netcoreapp3.1/Enums.AssemblyInfoInputs.cache
+/Users/eduardomarim/Programacao/CSharp/Enums/obj/Debug/netcoreapp3.1/Enums.AssemblyInfo.cs
+/Users/eduardomarim/Programacao/CSharp/Enums/obj/Debug/netcoreapp3.1/Enums.csproj.CoreCompileInputs.cache
+/Users/eduardomarim/Programacao/CSharp/Enums/obj/Debug/netcoreapp3.1/Enums.dll
+/Users/eduardomarim/Programacao/CSharp/Enums/obj/Debug/netcoreapp3.1/Enums.pdb
+/Users/eduardomarim/Programacao/CSharp/Enums/obj/Debug/netcoreapp3.1/Enums.genruntimeconfig.cache

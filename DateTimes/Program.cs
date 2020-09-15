@@ -76,7 +76,6 @@ namespace DateTimes
 
             System.Console.WriteLine("Acrescentado encerramento do programa");
 
-
         }
     }
 }
