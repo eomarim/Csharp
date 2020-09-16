@@ -20,9 +20,14 @@ namespace Composicao.Entities{
             this.HourContracts.Remove(hourContract);                          
         }
         public double Income(int year, int month){
-           HourContract hourContract =  HourContracts.Find(x => x.Date.Year == year && x.Date.Month == month);
-            
-            return hourContract.TotalValue();
+           List<HourContract> lstHourContract =  HourContracts.FindAll(x => x.Date.Year == year && x.Date.Month == month);
+
+            double resultado = 0.00;
+           foreach (HourContract item in lstHourContract)
+           {
+               resultado += item.TotalValue();
+           }
+            return resultado;
         }
 
         public override string ToString()

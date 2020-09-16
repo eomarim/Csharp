@@ -19,6 +19,7 @@ namespace Composicao
                 List<HourContract> lstContracts = new List<HourContract>();
                 lstContracts.Add(new HourContract(){Date = DateTime.Parse("2000-09-10"), Hours = 200, ValuePerHour = 500.00});
                 lstContracts.Add(new HourContract(){Date = DateTime.Parse("2020-08-10"), Hours = 300, ValuePerHour = 700.00});
+                lstContracts.Add(new HourContract(){Date = DateTime.Parse("2020-08-11"), Hours = 500, ValuePerHour = 800.00});
 
                 worker.HourContracts = lstContracts;
 
