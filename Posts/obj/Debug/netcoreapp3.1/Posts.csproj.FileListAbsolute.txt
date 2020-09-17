@@ -1,0 +1,12 @@
+/Users/eduardomarim/Programacao/CSharp/Posts/obj/Debug/netcoreapp3.1/Posts.csprojAssemblyReference.cache
+/Users/eduardomarim/Programacao/CSharp/Posts/obj/Debug/netcoreapp3.1/Posts.AssemblyInfoInputs.cache
+/Users/eduardomarim/Programacao/CSharp/Posts/obj/Debug/netcoreapp3.1/Posts.AssemblyInfo.cs
+/Users/eduardomarim/Programacao/CSharp/Posts/obj/Debug/netcoreapp3.1/Posts.csproj.CoreCompileInputs.cache
+/Users/eduardomarim/Programacao/CSharp/Posts/bin/Debug/netcoreapp3.1/Posts.deps.json
+/Users/eduardomarim/Programacao/CSharp/Posts/bin/Debug/netcoreapp3.1/Posts.runtimeconfig.json
+/Users/eduardomarim/Programacao/CSharp/Posts/bin/Debug/netcoreapp3.1/Posts.runtimeconfig.dev.json
+/Users/eduardomarim/Programacao/CSharp/Posts/bin/Debug/netcoreapp3.1/Posts.dll
+/Users/eduardomarim/Programacao/CSharp/Posts/bin/Debug/netcoreapp3.1/Posts.pdb
+/Users/eduardomarim/Programacao/CSharp/Posts/obj/Debug/netcoreapp3.1/Posts.dll
+/Users/eduardomarim/Programacao/CSharp/Posts/obj/Debug/netcoreapp3.1/Posts.pdb
+/Users/eduardomarim/Programacao/CSharp/Posts/obj/Debug/netcoreapp3.1/Posts.genruntimeconfig.cache
