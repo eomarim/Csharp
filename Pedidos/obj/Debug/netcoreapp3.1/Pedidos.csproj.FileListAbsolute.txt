@@ -1,0 +1,12 @@
+/Users/eduardomarim/Programacao/CSharp/Pedidos/obj/Debug/netcoreapp3.1/Pedidos.csprojAssemblyReference.cache
+/Users/eduardomarim/Programacao/CSharp/Pedidos/obj/Debug/netcoreapp3.1/Pedidos.AssemblyInfoInputs.cache
+/Users/eduardomarim/Programacao/CSharp/Pedidos/obj/Debug/netcoreapp3.1/Pedidos.AssemblyInfo.cs
+/Users/eduardomarim/Programacao/CSharp/Pedidos/obj/Debug/netcoreapp3.1/Pedidos.csproj.CoreCompileInputs.cache
+/Users/eduardomarim/Programacao/CSharp/Pedidos/bin/Debug/netcoreapp3.1/Pedidos.deps.json
+/Users/eduardomarim/Programacao/CSharp/Pedidos/bin/Debug/netcoreapp3.1/Pedidos.runtimeconfig.json
+/Users/eduardomarim/Programacao/CSharp/Pedidos/bin/Debug/netcoreapp3.1/Pedidos.runtimeconfig.dev.json
+/Users/eduardomarim/Programacao/CSharp/Pedidos/bin/Debug/netcoreapp3.1/Pedidos.dll
+/Users/eduardomarim/Programacao/CSharp/Pedidos/bin/Debug/netcoreapp3.1/Pedidos.pdb
+/Users/eduardomarim/Programacao/CSharp/Pedidos/obj/Debug/netcoreapp3.1/Pedidos.dll
+/Users/eduardomarim/Programacao/CSharp/Pedidos/obj/Debug/netcoreapp3.1/Pedidos.pdb
+/Users/eduardomarim/Programacao/CSharp/Pedidos/obj/Debug/netcoreapp3.1/Pedidos.genruntimeconfig.cache

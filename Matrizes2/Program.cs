@@ -6,8 +6,6 @@ namespace Matrizes2
     {
         public static void Main(string[] args)
         {
-            int colunasMatriz = 3;
-            int linhasMatriz = 2;
             int[,] matriz = new int[, ]{{1, 2, 8}, {5, 4, 7}, {35, 41, 87}};
 
             System.Console.WriteLine($"Quantidade de linhas da matriz: {matriz.GetLength(0)}");
