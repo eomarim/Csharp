@@ -1,0 +1,12 @@
+/Users/eduardomarim/Programacao/CSharp/Heranca/obj/Debug/netcoreapp3.1/Heranca.csprojAssemblyReference.cache
+/Users/eduardomarim/Programacao/CSharp/Heranca/obj/Debug/netcoreapp3.1/Heranca.AssemblyInfoInputs.cache
+/Users/eduardomarim/Programacao/CSharp/Heranca/obj/Debug/netcoreapp3.1/Heranca.AssemblyInfo.cs
+/Users/eduardomarim/Programacao/CSharp/Heranca/obj/Debug/netcoreapp3.1/Heranca.csproj.CoreCompileInputs.cache
+/Users/eduardomarim/Programacao/CSharp/Heranca/bin/Debug/netcoreapp3.1/Heranca.deps.json
+/Users/eduardomarim/Programacao/CSharp/Heranca/bin/Debug/netcoreapp3.1/Heranca.runtimeconfig.json
+/Users/eduardomarim/Programacao/CSharp/Heranca/bin/Debug/netcoreapp3.1/Heranca.runtimeconfig.dev.json
+/Users/eduardomarim/Programacao/CSharp/Heranca/bin/Debug/netcoreapp3.1/Heranca.dll
+/Users/eduardomarim/Programacao/CSharp/Heranca/bin/Debug/netcoreapp3.1/Heranca.pdb
+/Users/eduardomarim/Programacao/CSharp/Heranca/obj/Debug/netcoreapp3.1/Heranca.dll
+/Users/eduardomarim/Programacao/CSharp/Heranca/obj/Debug/netcoreapp3.1/Heranca.pdb
+/Users/eduardomarim/Programacao/CSharp/Heranca/obj/Debug/netcoreapp3.1/Heranca.genruntimeconfig.cache
