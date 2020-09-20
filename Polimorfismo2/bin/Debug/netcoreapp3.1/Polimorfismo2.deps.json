@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Polimorfismo2/1.0.0": {
+        "runtime": {
+          "Polimorfismo2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Polimorfismo2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

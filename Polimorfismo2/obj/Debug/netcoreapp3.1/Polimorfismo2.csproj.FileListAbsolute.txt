@@ -1,0 +1,12 @@
+/Users/eduardomarim/Programacao/CSharp/Polimorfismo2/bin/Debug/netcoreapp3.1/Polimorfismo2.deps.json
+/Users/eduardomarim/Programacao/CSharp/Polimorfismo2/bin/Debug/netcoreapp3.1/Polimorfismo2.runtimeconfig.json
+/Users/eduardomarim/Programacao/CSharp/Polimorfismo2/bin/Debug/netcoreapp3.1/Polimorfismo2.runtimeconfig.dev.json
+/Users/eduardomarim/Programacao/CSharp/Polimorfismo2/bin/Debug/netcoreapp3.1/Polimorfismo2.dll
+/Users/eduardomarim/Programacao/CSharp/Polimorfismo2/bin/Debug/netcoreapp3.1/Polimorfismo2.pdb
+/Users/eduardomarim/Programacao/CSharp/Polimorfismo2/obj/Debug/netcoreapp3.1/Polimorfismo2.csprojAssemblyReference.cache
+/Users/eduardomarim/Programacao/CSharp/Polimorfismo2/obj/Debug/netcoreapp3.1/Polimorfismo2.AssemblyInfoInputs.cache
+/Users/eduardomarim/Programacao/CSharp/Polimorfismo2/obj/Debug/netcoreapp3.1/Polimorfismo2.AssemblyInfo.cs
+/Users/eduardomarim/Programacao/CSharp/Polimorfismo2/obj/Debug/netcoreapp3.1/Polimorfismo2.csproj.CoreCompileInputs.cache
+/Users/eduardomarim/Programacao/CSharp/Polimorfismo2/obj/Debug/netcoreapp3.1/Polimorfismo2.dll
+/Users/eduardomarim/Programacao/CSharp/Polimorfismo2/obj/Debug/netcoreapp3.1/Polimorfismo2.pdb
+/Users/eduardomarim/Programacao/CSharp/Polimorfismo2/obj/Debug/netcoreapp3.1/Polimorfismo2.genruntimeconfig.cache
