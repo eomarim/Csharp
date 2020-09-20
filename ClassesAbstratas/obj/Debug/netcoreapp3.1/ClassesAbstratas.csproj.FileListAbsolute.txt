@@ -1,0 +1,12 @@
+/Users/eduardomarim/Programacao/CSharp/ClassesAbstratas/obj/Debug/netcoreapp3.1/ClassesAbstratas.csprojAssemblyReference.cache
+/Users/eduardomarim/Programacao/CSharp/ClassesAbstratas/obj/Debug/netcoreapp3.1/ClassesAbstratas.AssemblyInfoInputs.cache
+/Users/eduardomarim/Programacao/CSharp/ClassesAbstratas/obj/Debug/netcoreapp3.1/ClassesAbstratas.AssemblyInfo.cs
+/Users/eduardomarim/Programacao/CSharp/ClassesAbstratas/obj/Debug/netcoreapp3.1/ClassesAbstratas.csproj.CoreCompileInputs.cache
+/Users/eduardomarim/Programacao/CSharp/ClassesAbstratas/bin/Debug/netcoreapp3.1/ClassesAbstratas.deps.json
+/Users/eduardomarim/Programacao/CSharp/ClassesAbstratas/bin/Debug/netcoreapp3.1/ClassesAbstratas.runtimeconfig.json
+/Users/eduardomarim/Programacao/CSharp/ClassesAbstratas/bin/Debug/netcoreapp3.1/ClassesAbstratas.runtimeconfig.dev.json
+/Users/eduardomarim/Programacao/CSharp/ClassesAbstratas/bin/Debug/netcoreapp3.1/ClassesAbstratas.dll
+/Users/eduardomarim/Programacao/CSharp/ClassesAbstratas/bin/Debug/netcoreapp3.1/ClassesAbstratas.pdb
+/Users/eduardomarim/Programacao/CSharp/ClassesAbstratas/obj/Debug/netcoreapp3.1/ClassesAbstratas.dll
+/Users/eduardomarim/Programacao/CSharp/ClassesAbstratas/obj/Debug/netcoreapp3.1/ClassesAbstratas.pdb
+/Users/eduardomarim/Programacao/CSharp/ClassesAbstratas/obj/Debug/netcoreapp3.1/ClassesAbstratas.genruntimeconfig.cache
