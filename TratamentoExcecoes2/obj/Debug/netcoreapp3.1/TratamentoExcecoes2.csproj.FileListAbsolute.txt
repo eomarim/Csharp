@@ -1,0 +1,12 @@
+/Users/eduardomarim/Programacao/CSharp/TratamentoExcecoes2/bin/Debug/netcoreapp3.1/TratamentoExcecoes2.deps.json
+/Users/eduardomarim/Programacao/CSharp/TratamentoExcecoes2/bin/Debug/netcoreapp3.1/TratamentoExcecoes2.runtimeconfig.json
+/Users/eduardomarim/Programacao/CSharp/TratamentoExcecoes2/bin/Debug/netcoreapp3.1/TratamentoExcecoes2.runtimeconfig.dev.json
+/Users/eduardomarim/Programacao/CSharp/TratamentoExcecoes2/bin/Debug/netcoreapp3.1/TratamentoExcecoes2.dll
+/Users/eduardomarim/Programacao/CSharp/TratamentoExcecoes2/bin/Debug/netcoreapp3.1/TratamentoExcecoes2.pdb
+/Users/eduardomarim/Programacao/CSharp/TratamentoExcecoes2/obj/Debug/netcoreapp3.1/TratamentoExcecoes2.csprojAssemblyReference.cache
+/Users/eduardomarim/Programacao/CSharp/TratamentoExcecoes2/obj/Debug/netcoreapp3.1/TratamentoExcecoes2.AssemblyInfoInputs.cache
+/Users/eduardomarim/Programacao/CSharp/TratamentoExcecoes2/obj/Debug/netcoreapp3.1/TratamentoExcecoes2.AssemblyInfo.cs
+/Users/eduardomarim/Programacao/CSharp/TratamentoExcecoes2/obj/Debug/netcoreapp3.1/TratamentoExcecoes2.csproj.CoreCompileInputs.cache
+/Users/eduardomarim/Programacao/CSharp/TratamentoExcecoes2/obj/Debug/netcoreapp3.1/TratamentoExcecoes2.dll
+/Users/eduardomarim/Programacao/CSharp/TratamentoExcecoes2/obj/Debug/netcoreapp3.1/TratamentoExcecoes2.pdb
+/Users/eduardomarim/Programacao/CSharp/TratamentoExcecoes2/obj/Debug/netcoreapp3.1/TratamentoExcecoes2.genruntimeconfig.cache
