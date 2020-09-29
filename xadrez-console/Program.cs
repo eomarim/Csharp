@@ -12,5 +12,7 @@ namespace xadrez_console
             System.Console.WriteLine($"Posicao: {x}");
 
         }
+
+        
     }
 }
