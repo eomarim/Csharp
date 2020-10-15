@@ -1,0 +1,12 @@
+/Users/eduardomarim/Programacao/CSharp/Interfaces/obj/Debug/netcoreapp3.1/Interfaces.csprojAssemblyReference.cache
+/Users/eduardomarim/Programacao/CSharp/Interfaces/obj/Debug/netcoreapp3.1/Interfaces.AssemblyInfoInputs.cache
+/Users/eduardomarim/Programacao/CSharp/Interfaces/obj/Debug/netcoreapp3.1/Interfaces.AssemblyInfo.cs
+/Users/eduardomarim/Programacao/CSharp/Interfaces/obj/Debug/netcoreapp3.1/Interfaces.csproj.CoreCompileInputs.cache
+/Users/eduardomarim/Programacao/CSharp/Interfaces/bin/Debug/netcoreapp3.1/Interfaces.deps.json
+/Users/eduardomarim/Programacao/CSharp/Interfaces/bin/Debug/netcoreapp3.1/Interfaces.runtimeconfig.json
+/Users/eduardomarim/Programacao/CSharp/Interfaces/bin/Debug/netcoreapp3.1/Interfaces.runtimeconfig.dev.json
+/Users/eduardomarim/Programacao/CSharp/Interfaces/bin/Debug/netcoreapp3.1/Interfaces.dll
+/Users/eduardomarim/Programacao/CSharp/Interfaces/bin/Debug/netcoreapp3.1/Interfaces.pdb
+/Users/eduardomarim/Programacao/CSharp/Interfaces/obj/Debug/netcoreapp3.1/Interfaces.dll
+/Users/eduardomarim/Programacao/CSharp/Interfaces/obj/Debug/netcoreapp3.1/Interfaces.pdb
+/Users/eduardomarim/Programacao/CSharp/Interfaces/obj/Debug/netcoreapp3.1/Interfaces.genruntimeconfig.cache

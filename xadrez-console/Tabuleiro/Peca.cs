@@ -11,11 +11,15 @@ namespace Tabuleiro
 
         public Peca(){}
 
-        public Peca(Posicao posicao, Tabuleiro tabuleiro, Cor cor):this(){
-            this.Posicao = posicao;
+        public Peca(Tabuleiro tabuleiro, Cor cor):this(){
+            this.Posicao = null;
             this.Tabuleiro = tabuleiro;
             this.Cor = cor;
             this.QtdeMovimento = 0;
         }
+        public void IncrementarQtdeMovimentos(){
+            QtdeMovimento++;
+        }
+
     }
 }

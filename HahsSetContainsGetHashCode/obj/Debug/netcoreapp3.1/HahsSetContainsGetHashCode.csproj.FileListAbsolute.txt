@@ -1,0 +1,12 @@
+/Users/eduardomarim/Programacao/CSharp/HahsSetContainsGetHashCode/bin/Debug/netcoreapp3.1/HahsSetContainsGetHashCode.deps.json
+/Users/eduardomarim/Programacao/CSharp/HahsSetContainsGetHashCode/bin/Debug/netcoreapp3.1/HahsSetContainsGetHashCode.runtimeconfig.json
+/Users/eduardomarim/Programacao/CSharp/HahsSetContainsGetHashCode/bin/Debug/netcoreapp3.1/HahsSetContainsGetHashCode.runtimeconfig.dev.json
+/Users/eduardomarim/Programacao/CSharp/HahsSetContainsGetHashCode/bin/Debug/netcoreapp3.1/HahsSetContainsGetHashCode.dll
+/Users/eduardomarim/Programacao/CSharp/HahsSetContainsGetHashCode/bin/Debug/netcoreapp3.1/HahsSetContainsGetHashCode.pdb
+/Users/eduardomarim/Programacao/CSharp/HahsSetContainsGetHashCode/obj/Debug/netcoreapp3.1/HahsSetContainsGetHashCode.csprojAssemblyReference.cache
+/Users/eduardomarim/Programacao/CSharp/HahsSetContainsGetHashCode/obj/Debug/netcoreapp3.1/HahsSetContainsGetHashCode.AssemblyInfoInputs.cache
+/Users/eduardomarim/Programacao/CSharp/HahsSetContainsGetHashCode/obj/Debug/netcoreapp3.1/HahsSetContainsGetHashCode.AssemblyInfo.cs
+/Users/eduardomarim/Programacao/CSharp/HahsSetContainsGetHashCode/obj/Debug/netcoreapp3.1/HahsSetContainsGetHashCode.csproj.CoreCompileInputs.cache
+/Users/eduardomarim/Programacao/CSharp/HahsSetContainsGetHashCode/obj/Debug/netcoreapp3.1/HahsSetContainsGetHashCode.dll
+/Users/eduardomarim/Programacao/CSharp/HahsSetContainsGetHashCode/obj/Debug/netcoreapp3.1/HahsSetContainsGetHashCode.pdb
+/Users/eduardomarim/Programacao/CSharp/HahsSetContainsGetHashCode/obj/Debug/netcoreapp3.1/HahsSetContainsGetHashCode.genruntimeconfig.cache

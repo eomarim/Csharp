@@ -1,0 +1,12 @@
+/Users/eduardomarim/Programacao/CSharp/HashSetsSortedSets/bin/Debug/netcoreapp3.1/HashSetsSortedSets.deps.json
+/Users/eduardomarim/Programacao/CSharp/HashSetsSortedSets/bin/Debug/netcoreapp3.1/HashSetsSortedSets.runtimeconfig.json
+/Users/eduardomarim/Programacao/CSharp/HashSetsSortedSets/bin/Debug/netcoreapp3.1/HashSetsSortedSets.runtimeconfig.dev.json
+/Users/eduardomarim/Programacao/CSharp/HashSetsSortedSets/bin/Debug/netcoreapp3.1/HashSetsSortedSets.dll
+/Users/eduardomarim/Programacao/CSharp/HashSetsSortedSets/bin/Debug/netcoreapp3.1/HashSetsSortedSets.pdb
+/Users/eduardomarim/Programacao/CSharp/HashSetsSortedSets/obj/Debug/netcoreapp3.1/HashSetsSortedSets.csprojAssemblyReference.cache
+/Users/eduardomarim/Programacao/CSharp/HashSetsSortedSets/obj/Debug/netcoreapp3.1/HashSetsSortedSets.AssemblyInfoInputs.cache
+/Users/eduardomarim/Programacao/CSharp/HashSetsSortedSets/obj/Debug/netcoreapp3.1/HashSetsSortedSets.AssemblyInfo.cs
+/Users/eduardomarim/Programacao/CSharp/HashSetsSortedSets/obj/Debug/netcoreapp3.1/HashSetsSortedSets.csproj.CoreCompileInputs.cache
+/Users/eduardomarim/Programacao/CSharp/HashSetsSortedSets/obj/Debug/netcoreapp3.1/HashSetsSortedSets.dll
+/Users/eduardomarim/Programacao/CSharp/HashSetsSortedSets/obj/Debug/netcoreapp3.1/HashSetsSortedSets.pdb
+/Users/eduardomarim/Programacao/CSharp/HashSetsSortedSets/obj/Debug/netcoreapp3.1/HashSetsSortedSets.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/eduardomarim/Programacao/CSharp/DelegateComparassionSort1/bin/Debug/netcoreapp3.1/DelegateComparassionSort1.deps.json
+/Users/eduardomarim/Programacao/CSharp/DelegateComparassionSort1/bin/Debug/netcoreapp3.1/DelegateComparassionSort1.runtimeconfig.json
+/Users/eduardomarim/Programacao/CSharp/DelegateComparassionSort1/bin/Debug/netcoreapp3.1/DelegateComparassionSort1.runtimeconfig.dev.json
+/Users/eduardomarim/Programacao/CSharp/DelegateComparassionSort1/bin/Debug/netcoreapp3.1/DelegateComparassionSort1.dll
+/Users/eduardomarim/Programacao/CSharp/DelegateComparassionSort1/bin/Debug/netcoreapp3.1/DelegateComparassionSort1.pdb
+/Users/eduardomarim/Programacao/CSharp/DelegateComparassionSort1/obj/Debug/netcoreapp3.1/DelegateComparassionSort1.csprojAssemblyReference.cache
+/Users/eduardomarim/Programacao/CSharp/DelegateComparassionSort1/obj/Debug/netcoreapp3.1/DelegateComparassionSort1.AssemblyInfoInputs.cache
+/Users/eduardomarim/Programacao/CSharp/DelegateComparassionSort1/obj/Debug/netcoreapp3.1/DelegateComparassionSort1.AssemblyInfo.cs
+/Users/eduardomarim/Programacao/CSharp/DelegateComparassionSort1/obj/Debug/netcoreapp3.1/DelegateComparassionSort1.csproj.CoreCompileInputs.cache
+/Users/eduardomarim/Programacao/CSharp/DelegateComparassionSort1/obj/Debug/netcoreapp3.1/DelegateComparassionSort1.dll
+/Users/eduardomarim/Programacao/CSharp/DelegateComparassionSort1/obj/Debug/netcoreapp3.1/DelegateComparassionSort1.pdb
+/Users/eduardomarim/Programacao/CSharp/DelegateComparassionSort1/obj/Debug/netcoreapp3.1/DelegateComparassionSort1.genruntimeconfig.cache

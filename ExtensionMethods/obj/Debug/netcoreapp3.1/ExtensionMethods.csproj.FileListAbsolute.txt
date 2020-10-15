@@ -1,0 +1,12 @@
+/Users/eduardomarim/Programacao/CSharp/ExtensionMethods/bin/Debug/netcoreapp3.1/ExtensionMethods.deps.json
+/Users/eduardomarim/Programacao/CSharp/ExtensionMethods/bin/Debug/netcoreapp3.1/ExtensionMethods.runtimeconfig.json
+/Users/eduardomarim/Programacao/CSharp/ExtensionMethods/bin/Debug/netcoreapp3.1/ExtensionMethods.runtimeconfig.dev.json
+/Users/eduardomarim/Programacao/CSharp/ExtensionMethods/bin/Debug/netcoreapp3.1/ExtensionMethods.dll
+/Users/eduardomarim/Programacao/CSharp/ExtensionMethods/bin/Debug/netcoreapp3.1/ExtensionMethods.pdb
+/Users/eduardomarim/Programacao/CSharp/ExtensionMethods/obj/Debug/netcoreapp3.1/ExtensionMethods.csprojAssemblyReference.cache
+/Users/eduardomarim/Programacao/CSharp/ExtensionMethods/obj/Debug/netcoreapp3.1/ExtensionMethods.AssemblyInfoInputs.cache
+/Users/eduardomarim/Programacao/CSharp/ExtensionMethods/obj/Debug/netcoreapp3.1/ExtensionMethods.AssemblyInfo.cs
+/Users/eduardomarim/Programacao/CSharp/ExtensionMethods/obj/Debug/netcoreapp3.1/ExtensionMethods.csproj.CoreCompileInputs.cache
+/Users/eduardomarim/Programacao/CSharp/ExtensionMethods/obj/Debug/netcoreapp3.1/ExtensionMethods.dll
+/Users/eduardomarim/Programacao/CSharp/ExtensionMethods/obj/Debug/netcoreapp3.1/ExtensionMethods.pdb
+/Users/eduardomarim/Programacao/CSharp/ExtensionMethods/obj/Debug/netcoreapp3.1/ExtensionMethods.genruntimeconfig.cache

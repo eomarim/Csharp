@@ -1,0 +1,12 @@
+/Users/eduardomarim/Programacao/CSharp/HashSets/obj/Debug/netcoreapp3.1/HashSets.csprojAssemblyReference.cache
+/Users/eduardomarim/Programacao/CSharp/HashSets/obj/Debug/netcoreapp3.1/HashSets.AssemblyInfoInputs.cache
+/Users/eduardomarim/Programacao/CSharp/HashSets/obj/Debug/netcoreapp3.1/HashSets.AssemblyInfo.cs
+/Users/eduardomarim/Programacao/CSharp/HashSets/obj/Debug/netcoreapp3.1/HashSets.csproj.CoreCompileInputs.cache
+/Users/eduardomarim/Programacao/CSharp/HashSets/bin/Debug/netcoreapp3.1/HashSets.deps.json
+/Users/eduardomarim/Programacao/CSharp/HashSets/bin/Debug/netcoreapp3.1/HashSets.runtimeconfig.json
+/Users/eduardomarim/Programacao/CSharp/HashSets/bin/Debug/netcoreapp3.1/HashSets.runtimeconfig.dev.json
+/Users/eduardomarim/Programacao/CSharp/HashSets/bin/Debug/netcoreapp3.1/HashSets.dll
+/Users/eduardomarim/Programacao/CSharp/HashSets/bin/Debug/netcoreapp3.1/HashSets.pdb
+/Users/eduardomarim/Programacao/CSharp/HashSets/obj/Debug/netcoreapp3.1/HashSets.dll
+/Users/eduardomarim/Programacao/CSharp/HashSets/obj/Debug/netcoreapp3.1/HashSets.pdb
+/Users/eduardomarim/Programacao/CSharp/HashSets/obj/Debug/netcoreapp3.1/HashSets.genruntimeconfig.cache

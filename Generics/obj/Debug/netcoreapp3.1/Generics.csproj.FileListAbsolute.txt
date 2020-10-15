@@ -1,0 +1,12 @@
+/Users/eduardomarim/Programacao/CSharp/Generics/bin/Debug/netcoreapp3.1/Generics.deps.json
+/Users/eduardomarim/Programacao/CSharp/Generics/bin/Debug/netcoreapp3.1/Generics.runtimeconfig.json
+/Users/eduardomarim/Programacao/CSharp/Generics/bin/Debug/netcoreapp3.1/Generics.runtimeconfig.dev.json
+/Users/eduardomarim/Programacao/CSharp/Generics/bin/Debug/netcoreapp3.1/Generics.dll
+/Users/eduardomarim/Programacao/CSharp/Generics/bin/Debug/netcoreapp3.1/Generics.pdb
+/Users/eduardomarim/Programacao/CSharp/Generics/obj/Debug/netcoreapp3.1/Generics.csprojAssemblyReference.cache
+/Users/eduardomarim/Programacao/CSharp/Generics/obj/Debug/netcoreapp3.1/Generics.AssemblyInfoInputs.cache
+/Users/eduardomarim/Programacao/CSharp/Generics/obj/Debug/netcoreapp3.1/Generics.AssemblyInfo.cs
+/Users/eduardomarim/Programacao/CSharp/Generics/obj/Debug/netcoreapp3.1/Generics.csproj.CoreCompileInputs.cache
+/Users/eduardomarim/Programacao/CSharp/Generics/obj/Debug/netcoreapp3.1/Generics.dll
+/Users/eduardomarim/Programacao/CSharp/Generics/obj/Debug/netcoreapp3.1/Generics.pdb
+/Users/eduardomarim/Programacao/CSharp/Generics/obj/Debug/netcoreapp3.1/Generics.genruntimeconfig.cache

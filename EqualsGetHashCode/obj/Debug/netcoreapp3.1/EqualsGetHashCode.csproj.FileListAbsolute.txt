@@ -1,0 +1,12 @@
+/Users/eduardomarim/Programacao/CSharp/EqualsGetHashCode/bin/Debug/netcoreapp3.1/EqualsGetHashCode.deps.json
+/Users/eduardomarim/Programacao/CSharp/EqualsGetHashCode/bin/Debug/netcoreapp3.1/EqualsGetHashCode.runtimeconfig.json
+/Users/eduardomarim/Programacao/CSharp/EqualsGetHashCode/bin/Debug/netcoreapp3.1/EqualsGetHashCode.runtimeconfig.dev.json
+/Users/eduardomarim/Programacao/CSharp/EqualsGetHashCode/bin/Debug/netcoreapp3.1/EqualsGetHashCode.dll
+/Users/eduardomarim/Programacao/CSharp/EqualsGetHashCode/bin/Debug/netcoreapp3.1/EqualsGetHashCode.pdb
+/Users/eduardomarim/Programacao/CSharp/EqualsGetHashCode/obj/Debug/netcoreapp3.1/EqualsGetHashCode.csprojAssemblyReference.cache
+/Users/eduardomarim/Programacao/CSharp/EqualsGetHashCode/obj/Debug/netcoreapp3.1/EqualsGetHashCode.AssemblyInfoInputs.cache
+/Users/eduardomarim/Programacao/CSharp/EqualsGetHashCode/obj/Debug/netcoreapp3.1/EqualsGetHashCode.AssemblyInfo.cs
+/Users/eduardomarim/Programacao/CSharp/EqualsGetHashCode/obj/Debug/netcoreapp3.1/EqualsGetHashCode.csproj.CoreCompileInputs.cache
+/Users/eduardomarim/Programacao/CSharp/EqualsGetHashCode/obj/Debug/netcoreapp3.1/EqualsGetHashCode.dll
+/Users/eduardomarim/Programacao/CSharp/EqualsGetHashCode/obj/Debug/netcoreapp3.1/EqualsGetHashCode.pdb
+/Users/eduardomarim/Programacao/CSharp/EqualsGetHashCode/obj/Debug/netcoreapp3.1/EqualsGetHashCode.genruntimeconfig.cache

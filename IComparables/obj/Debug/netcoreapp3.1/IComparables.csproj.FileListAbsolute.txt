@@ -1,0 +1,12 @@
+/Users/eduardomarim/Programacao/CSharp/IComparables/obj/Debug/netcoreapp3.1/IComparables.csprojAssemblyReference.cache
+/Users/eduardomarim/Programacao/CSharp/IComparables/obj/Debug/netcoreapp3.1/IComparables.AssemblyInfoInputs.cache
+/Users/eduardomarim/Programacao/CSharp/IComparables/obj/Debug/netcoreapp3.1/IComparables.AssemblyInfo.cs
+/Users/eduardomarim/Programacao/CSharp/IComparables/obj/Debug/netcoreapp3.1/IComparables.csproj.CoreCompileInputs.cache
+/Users/eduardomarim/Programacao/CSharp/IComparables/bin/Debug/netcoreapp3.1/IComparables.deps.json
+/Users/eduardomarim/Programacao/CSharp/IComparables/bin/Debug/netcoreapp3.1/IComparables.runtimeconfig.json
+/Users/eduardomarim/Programacao/CSharp/IComparables/bin/Debug/netcoreapp3.1/IComparables.runtimeconfig.dev.json
+/Users/eduardomarim/Programacao/CSharp/IComparables/bin/Debug/netcoreapp3.1/IComparables.dll
+/Users/eduardomarim/Programacao/CSharp/IComparables/bin/Debug/netcoreapp3.1/IComparables.pdb
+/Users/eduardomarim/Programacao/CSharp/IComparables/obj/Debug/netcoreapp3.1/IComparables.dll
+/Users/eduardomarim/Programacao/CSharp/IComparables/obj/Debug/netcoreapp3.1/IComparables.pdb
+/Users/eduardomarim/Programacao/CSharp/IComparables/obj/Debug/netcoreapp3.1/IComparables.genruntimeconfig.cache

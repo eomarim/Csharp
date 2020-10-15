@@ -1,0 +1,12 @@
+/Users/eduardomarim/Programacao/CSharp/Delegates2/bin/Debug/netcoreapp3.1/Delegates2.deps.json
+/Users/eduardomarim/Programacao/CSharp/Delegates2/bin/Debug/netcoreapp3.1/Delegates2.runtimeconfig.json
+/Users/eduardomarim/Programacao/CSharp/Delegates2/bin/Debug/netcoreapp3.1/Delegates2.runtimeconfig.dev.json
+/Users/eduardomarim/Programacao/CSharp/Delegates2/bin/Debug/netcoreapp3.1/Delegates2.dll
+/Users/eduardomarim/Programacao/CSharp/Delegates2/bin/Debug/netcoreapp3.1/Delegates2.pdb
+/Users/eduardomarim/Programacao/CSharp/Delegates2/obj/Debug/netcoreapp3.1/Delegates2.csprojAssemblyReference.cache
+/Users/eduardomarim/Programacao/CSharp/Delegates2/obj/Debug/netcoreapp3.1/Delegates2.AssemblyInfoInputs.cache
+/Users/eduardomarim/Programacao/CSharp/Delegates2/obj/Debug/netcoreapp3.1/Delegates2.AssemblyInfo.cs
+/Users/eduardomarim/Programacao/CSharp/Delegates2/obj/Debug/netcoreapp3.1/Delegates2.csproj.CoreCompileInputs.cache
+/Users/eduardomarim/Programacao/CSharp/Delegates2/obj/Debug/netcoreapp3.1/Delegates2.dll
+/Users/eduardomarim/Programacao/CSharp/Delegates2/obj/Debug/netcoreapp3.1/Delegates2.pdb
+/Users/eduardomarim/Programacao/CSharp/Delegates2/obj/Debug/netcoreapp3.1/Delegates2.genruntimeconfig.cache

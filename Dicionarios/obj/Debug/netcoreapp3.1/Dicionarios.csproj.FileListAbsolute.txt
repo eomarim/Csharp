@@ -1,0 +1,12 @@
+/Users/eduardomarim/Programacao/CSharp/Dicionarios/obj/Debug/netcoreapp3.1/Dicionarios.csprojAssemblyReference.cache
+/Users/eduardomarim/Programacao/CSharp/Dicionarios/obj/Debug/netcoreapp3.1/Dicionarios.AssemblyInfoInputs.cache
+/Users/eduardomarim/Programacao/CSharp/Dicionarios/obj/Debug/netcoreapp3.1/Dicionarios.AssemblyInfo.cs
+/Users/eduardomarim/Programacao/CSharp/Dicionarios/obj/Debug/netcoreapp3.1/Dicionarios.csproj.CoreCompileInputs.cache
+/Users/eduardomarim/Programacao/CSharp/Dicionarios/bin/Debug/netcoreapp3.1/Dicionarios.deps.json
+/Users/eduardomarim/Programacao/CSharp/Dicionarios/bin/Debug/netcoreapp3.1/Dicionarios.runtimeconfig.json
+/Users/eduardomarim/Programacao/CSharp/Dicionarios/bin/Debug/netcoreapp3.1/Dicionarios.runtimeconfig.dev.json
+/Users/eduardomarim/Programacao/CSharp/Dicionarios/bin/Debug/netcoreapp3.1/Dicionarios.dll
+/Users/eduardomarim/Programacao/CSharp/Dicionarios/bin/Debug/netcoreapp3.1/Dicionarios.pdb
+/Users/eduardomarim/Programacao/CSharp/Dicionarios/obj/Debug/netcoreapp3.1/Dicionarios.dll
+/Users/eduardomarim/Programacao/CSharp/Dicionarios/obj/Debug/netcoreapp3.1/Dicionarios.pdb
+/Users/eduardomarim/Programacao/CSharp/Dicionarios/obj/Debug/netcoreapp3.1/Dicionarios.genruntimeconfig.cache

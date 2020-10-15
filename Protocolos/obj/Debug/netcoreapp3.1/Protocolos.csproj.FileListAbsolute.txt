@@ -1,0 +1,12 @@
+/Users/eduardomarim/Programacao/CSharp/Protocolos/bin/Debug/netcoreapp3.1/Protocolos.deps.json
+/Users/eduardomarim/Programacao/CSharp/Protocolos/bin/Debug/netcoreapp3.1/Protocolos.runtimeconfig.json
+/Users/eduardomarim/Programacao/CSharp/Protocolos/bin/Debug/netcoreapp3.1/Protocolos.runtimeconfig.dev.json
+/Users/eduardomarim/Programacao/CSharp/Protocolos/bin/Debug/netcoreapp3.1/Protocolos.dll
+/Users/eduardomarim/Programacao/CSharp/Protocolos/bin/Debug/netcoreapp3.1/Protocolos.pdb
+/Users/eduardomarim/Programacao/CSharp/Protocolos/obj/Debug/netcoreapp3.1/Protocolos.csprojAssemblyReference.cache
+/Users/eduardomarim/Programacao/CSharp/Protocolos/obj/Debug/netcoreapp3.1/Protocolos.AssemblyInfoInputs.cache
+/Users/eduardomarim/Programacao/CSharp/Protocolos/obj/Debug/netcoreapp3.1/Protocolos.AssemblyInfo.cs
+/Users/eduardomarim/Programacao/CSharp/Protocolos/obj/Debug/netcoreapp3.1/Protocolos.csproj.CoreCompileInputs.cache
+/Users/eduardomarim/Programacao/CSharp/Protocolos/obj/Debug/netcoreapp3.1/Protocolos.dll
+/Users/eduardomarim/Programacao/CSharp/Protocolos/obj/Debug/netcoreapp3.1/Protocolos.pdb
+/Users/eduardomarim/Programacao/CSharp/Protocolos/obj/Debug/netcoreapp3.1/Protocolos.genruntimeconfig.cache
