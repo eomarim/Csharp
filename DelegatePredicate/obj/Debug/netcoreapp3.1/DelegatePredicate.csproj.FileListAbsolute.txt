@@ -1,0 +1,12 @@
+/Users/eduardomarim/Programacao/CSharp/DelegatePredicate/obj/Debug/netcoreapp3.1/DelegatePredicate.csprojAssemblyReference.cache
+/Users/eduardomarim/Programacao/CSharp/DelegatePredicate/obj/Debug/netcoreapp3.1/DelegatePredicate.AssemblyInfoInputs.cache
+/Users/eduardomarim/Programacao/CSharp/DelegatePredicate/obj/Debug/netcoreapp3.1/DelegatePredicate.AssemblyInfo.cs
+/Users/eduardomarim/Programacao/CSharp/DelegatePredicate/obj/Debug/netcoreapp3.1/DelegatePredicate.csproj.CoreCompileInputs.cache
+/Users/eduardomarim/Programacao/CSharp/DelegatePredicate/bin/Debug/netcoreapp3.1/DelegatePredicate.deps.json
+/Users/eduardomarim/Programacao/CSharp/DelegatePredicate/bin/Debug/netcoreapp3.1/DelegatePredicate.runtimeconfig.json
+/Users/eduardomarim/Programacao/CSharp/DelegatePredicate/bin/Debug/netcoreapp3.1/DelegatePredicate.runtimeconfig.dev.json
+/Users/eduardomarim/Programacao/CSharp/DelegatePredicate/bin/Debug/netcoreapp3.1/DelegatePredicate.dll
+/Users/eduardomarim/Programacao/CSharp/DelegatePredicate/bin/Debug/netcoreapp3.1/DelegatePredicate.pdb
+/Users/eduardomarim/Programacao/CSharp/DelegatePredicate/obj/Debug/netcoreapp3.1/DelegatePredicate.dll
+/Users/eduardomarim/Programacao/CSharp/DelegatePredicate/obj/Debug/netcoreapp3.1/DelegatePredicate.pdb
+/Users/eduardomarim/Programacao/CSharp/DelegatePredicate/obj/Debug/netcoreapp3.1/DelegatePredicate.genruntimeconfig.cache

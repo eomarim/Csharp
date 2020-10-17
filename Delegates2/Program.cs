@@ -1,4 +1,5 @@
-﻿using System;
+﻿using System.Linq;
+using System;
 
 namespace Delegates2
 {
@@ -24,6 +25,28 @@ namespace Delegates2
             mostrar += CalculationService.MostrarNumeroImpar;
 
             mostrar.Invoke(12, 13);
+
+                var cal = new CalculationService();
+            DelContar c = cal.Contar;
+            c(15);
+
+            //Call back
+            Del del = new Del(CalculationService.DelegateMethod);
+            CalculationService.MethodWithCallback(10, 10, del);
+
+            ReferenciaMetodo delRefMethod = CalculationService.DelegateMethod;
+            CalculationService.ChamaDelegate("Passei o metodo ChamaDelegate", 
+            "para o Delegate Referencia Metodo", delRefMethod);
+
+            Del d1 = CalculationService.DelegateMethod;
+            Del d2 = CalculationService.DelegateMethod2;
+            Del d3 = CalculationService.DelegateMethod2;
+
+            Del d4 = d1 + d2 + d3;
+
+            System.Console.WriteLine(d2 == d3);
+
+            d4.Invoke("Invocando metodos");
         }
     }
     public class CalculationService{
@@ -49,9 +72,41 @@ namespace Delegates2
       public static void MostrarNumeroImpar(double x, double y){
            System.Console.WriteLine("Numero Impar:" + ((x % 2 != 0 ? x : y % 2 != 0 ? y : 0).ToString()));
        }
+
+       public static void DelegateMethod(string x){
+           System.Console.WriteLine("Metodo 1");
+       }
+
+       public static void DelegateMethod2(string x){
+           System.Console.WriteLine("Metodo 2");
+       }
+
+       public void Contar(int x){
+           for (int i = 0; i < x; i++)
+           {
+               System.Console.Write(i.ToString() + " ");
+           }
+       }
+
+       public static void MethodWithCallback(int param1, int param2, Del callback)
+        {
+            callback("The number is: " + (param1 + param2).ToString());
+        }
+
+        public static void ChamaDelegate(string x, string y, ReferenciaMetodo del ){
+            del.Invoke("Chamada de um delegate:" + x + y);
+        }
        
     }
      public delegate double DelCalculo(double x, double y);
 
      public delegate void MostrarNumeros(double x, double y);
+
+     public delegate void DelContar(int x);
+
+     public delegate void Del(string s);
+
+     public delegate void ReferenciaMetodo(string y);
+
+
 }

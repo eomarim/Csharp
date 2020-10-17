@@ -1,0 +1,12 @@
+/Users/eduardomarim/Programacao/CSharp/Action_e_Func/bin/Debug/netcoreapp3.1/Action_e_Func.deps.json
+/Users/eduardomarim/Programacao/CSharp/Action_e_Func/bin/Debug/netcoreapp3.1/Action_e_Func.runtimeconfig.json
+/Users/eduardomarim/Programacao/CSharp/Action_e_Func/bin/Debug/netcoreapp3.1/Action_e_Func.runtimeconfig.dev.json
+/Users/eduardomarim/Programacao/CSharp/Action_e_Func/bin/Debug/netcoreapp3.1/Action_e_Func.dll
+/Users/eduardomarim/Programacao/CSharp/Action_e_Func/bin/Debug/netcoreapp3.1/Action_e_Func.pdb
+/Users/eduardomarim/Programacao/CSharp/Action_e_Func/obj/Debug/netcoreapp3.1/Action_e_Func.csprojAssemblyReference.cache
+/Users/eduardomarim/Programacao/CSharp/Action_e_Func/obj/Debug/netcoreapp3.1/Action_e_Func.AssemblyInfoInputs.cache
+/Users/eduardomarim/Programacao/CSharp/Action_e_Func/obj/Debug/netcoreapp3.1/Action_e_Func.AssemblyInfo.cs
+/Users/eduardomarim/Programacao/CSharp/Action_e_Func/obj/Debug/netcoreapp3.1/Action_e_Func.csproj.CoreCompileInputs.cache
+/Users/eduardomarim/Programacao/CSharp/Action_e_Func/obj/Debug/netcoreapp3.1/Action_e_Func.dll
+/Users/eduardomarim/Programacao/CSharp/Action_e_Func/obj/Debug/netcoreapp3.1/Action_e_Func.pdb
+/Users/eduardomarim/Programacao/CSharp/Action_e_Func/obj/Debug/netcoreapp3.1/Action_e_Func.genruntimeconfig.cache
