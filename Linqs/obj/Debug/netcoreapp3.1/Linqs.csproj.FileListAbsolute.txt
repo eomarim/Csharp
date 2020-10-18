@@ -1,0 +1,12 @@
+/Users/eduardomarim/Programacao/CSharp/Linqs/bin/Debug/netcoreapp3.1/Linqs.deps.json
+/Users/eduardomarim/Programacao/CSharp/Linqs/bin/Debug/netcoreapp3.1/Linqs.runtimeconfig.json
+/Users/eduardomarim/Programacao/CSharp/Linqs/bin/Debug/netcoreapp3.1/Linqs.runtimeconfig.dev.json
+/Users/eduardomarim/Programacao/CSharp/Linqs/bin/Debug/netcoreapp3.1/Linqs.dll
+/Users/eduardomarim/Programacao/CSharp/Linqs/bin/Debug/netcoreapp3.1/Linqs.pdb
+/Users/eduardomarim/Programacao/CSharp/Linqs/obj/Debug/netcoreapp3.1/Linqs.csprojAssemblyReference.cache
+/Users/eduardomarim/Programacao/CSharp/Linqs/obj/Debug/netcoreapp3.1/Linqs.AssemblyInfoInputs.cache
+/Users/eduardomarim/Programacao/CSharp/Linqs/obj/Debug/netcoreapp3.1/Linqs.AssemblyInfo.cs
+/Users/eduardomarim/Programacao/CSharp/Linqs/obj/Debug/netcoreapp3.1/Linqs.csproj.CoreCompileInputs.cache
+/Users/eduardomarim/Programacao/CSharp/Linqs/obj/Debug/netcoreapp3.1/Linqs.dll
+/Users/eduardomarim/Programacao/CSharp/Linqs/obj/Debug/netcoreapp3.1/Linqs.pdb
+/Users/eduardomarim/Programacao/CSharp/Linqs/obj/Debug/netcoreapp3.1/Linqs.genruntimeconfig.cache
