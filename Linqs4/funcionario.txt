@@ -1,0 +1,4 @@
+Eduardo Marim,e.oliveiramarim@gmail.com,10000.00
+Luzia Odete de Oliveira,luzia@hotmail.com,40000.00
+Moacir Marim,moacir@gmail.com,50000.00
+Moacir Marim Junior,jr@outlook.com,35000.00

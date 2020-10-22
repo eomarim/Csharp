@@ -1,0 +1,12 @@
+/Users/eduardomarim/Programacao/CSharp/Linqs2_Lambda/obj/Debug/netcoreapp3.1/Linqs2_Lambda.csprojAssemblyReference.cache
+/Users/eduardomarim/Programacao/CSharp/Linqs2_Lambda/obj/Debug/netcoreapp3.1/Linqs2_Lambda.AssemblyInfoInputs.cache
+/Users/eduardomarim/Programacao/CSharp/Linqs2_Lambda/obj/Debug/netcoreapp3.1/Linqs2_Lambda.AssemblyInfo.cs
+/Users/eduardomarim/Programacao/CSharp/Linqs2_Lambda/obj/Debug/netcoreapp3.1/Linqs2_Lambda.csproj.CoreCompileInputs.cache
+/Users/eduardomarim/Programacao/CSharp/Linqs2_Lambda/bin/Debug/netcoreapp3.1/Linqs2_Lambda.deps.json
+/Users/eduardomarim/Programacao/CSharp/Linqs2_Lambda/bin/Debug/netcoreapp3.1/Linqs2_Lambda.runtimeconfig.json
+/Users/eduardomarim/Programacao/CSharp/Linqs2_Lambda/bin/Debug/netcoreapp3.1/Linqs2_Lambda.runtimeconfig.dev.json
+/Users/eduardomarim/Programacao/CSharp/Linqs2_Lambda/bin/Debug/netcoreapp3.1/Linqs2_Lambda.dll
+/Users/eduardomarim/Programacao/CSharp/Linqs2_Lambda/bin/Debug/netcoreapp3.1/Linqs2_Lambda.pdb
+/Users/eduardomarim/Programacao/CSharp/Linqs2_Lambda/obj/Debug/netcoreapp3.1/Linqs2_Lambda.dll
+/Users/eduardomarim/Programacao/CSharp/Linqs2_Lambda/obj/Debug/netcoreapp3.1/Linqs2_Lambda.pdb
+/Users/eduardomarim/Programacao/CSharp/Linqs2_Lambda/obj/Debug/netcoreapp3.1/Linqs2_Lambda.genruntimeconfig.cache
