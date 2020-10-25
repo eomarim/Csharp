@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using WebSalesMvc.Models;
 
 namespace WebSalesMvc.Data
@@ -14,6 +10,10 @@ namespace WebSalesMvc.Data
         {
         }
 
-        public DbSet<WebSalesMvc.Models.Departamento> Departamento { get; set; }
+        public DbSet<Departamento> Departamento { get; set; }
+
+        public DbSet<Vendedor> Vendedor { get; set; }
+
+        public DbSet<Venda> Venda { get; set; }
     }
 }
