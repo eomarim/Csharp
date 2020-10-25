@@ -34,4 +34,10 @@ G:\Projetos\Csharp\WebSalesMvc\WebSalesMvc\WebSalesMvc\obj\Debug\netcoreapp2.1\W
 G:\Projetos\Csharp\WebSalesMvc\WebSalesMvc\WebSalesMvc\obj\Debug\netcoreapp2.1\WebSalesMvc.genruntimeconfig.cache
 G:\Projetos\Csharp\WebSalesMvc\WebSalesMvc\WebSalesMvc\obj\Debug\netcoreapp2.1\WebSalesMvc.csproj.CopyComplete
 G:\Projetos\Csharp\WebSalesMvc\WebSalesMvc\WebSalesMvc\obj\Debug\netcoreapp2.1\WebSalesMvc.csproj.CoreCompileInputs.cache
-G:\Projetos\Csharp\WebSalesMvc\WebSalesMvc\WebSalesMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departamento\Index.cshtml.g.cs
+G:\Projetos\Csharp\WebSalesMvc\WebSalesMvc\WebSalesMvc\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.json
+G:\Projetos\Csharp\WebSalesMvc\WebSalesMvc\WebSalesMvc\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.local.json
+G:\Projetos\Csharp\WebSalesMvc\WebSalesMvc\WebSalesMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departamentos\Create.cshtml.g.cs
+G:\Projetos\Csharp\WebSalesMvc\WebSalesMvc\WebSalesMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departamentos\Delete.cshtml.g.cs
+G:\Projetos\Csharp\WebSalesMvc\WebSalesMvc\WebSalesMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departamentos\Details.cshtml.g.cs
+G:\Projetos\Csharp\WebSalesMvc\WebSalesMvc\WebSalesMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departamentos\Edit.cshtml.g.cs
+G:\Projetos\Csharp\WebSalesMvc\WebSalesMvc\WebSalesMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departamentos\Index.cshtml.g.cs
