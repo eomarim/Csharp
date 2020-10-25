@@ -11,7 +11,6 @@ G:\Projetos\Csharp\WebSalesMvc\WebSalesMvc\WebSalesMvc\bin\Debug\netcoreapp2.1\W
 G:\Projetos\Csharp\WebSalesMvc\WebSalesMvc\WebSalesMvc\bin\Debug\netcoreapp2.1\WebSalesMvc.Views.dll
 G:\Projetos\Csharp\WebSalesMvc\WebSalesMvc\WebSalesMvc\bin\Debug\netcoreapp2.1\WebSalesMvc.Views.pdb
 G:\Projetos\Csharp\WebSalesMvc\WebSalesMvc\WebSalesMvc\obj\Debug\netcoreapp2.1\WebSalesMvc.csprojAssemblyReference.cache
-G:\Projetos\Csharp\WebSalesMvc\WebSalesMvc\WebSalesMvc\obj\Debug\netcoreapp2.1\WebSalesMvc.csproj.CoreCompileInputs.cache
 G:\Projetos\Csharp\WebSalesMvc\WebSalesMvc\WebSalesMvc\obj\Debug\netcoreapp2.1\WebSalesMvc.RazorAssemblyInfo.cache
 G:\Projetos\Csharp\WebSalesMvc\WebSalesMvc\WebSalesMvc\obj\Debug\netcoreapp2.1\WebSalesMvc.RazorAssemblyInfo.cs
 G:\Projetos\Csharp\WebSalesMvc\WebSalesMvc\WebSalesMvc\obj\Debug\netcoreapp2.1\WebSalesMvc.TagHelpers.input.cache
@@ -34,3 +33,5 @@ G:\Projetos\Csharp\WebSalesMvc\WebSalesMvc\WebSalesMvc\obj\Debug\netcoreapp2.1\W
 G:\Projetos\Csharp\WebSalesMvc\WebSalesMvc\WebSalesMvc\obj\Debug\netcoreapp2.1\WebSalesMvc.pdb
 G:\Projetos\Csharp\WebSalesMvc\WebSalesMvc\WebSalesMvc\obj\Debug\netcoreapp2.1\WebSalesMvc.genruntimeconfig.cache
 G:\Projetos\Csharp\WebSalesMvc\WebSalesMvc\WebSalesMvc\obj\Debug\netcoreapp2.1\WebSalesMvc.csproj.CopyComplete
+G:\Projetos\Csharp\WebSalesMvc\WebSalesMvc\WebSalesMvc\obj\Debug\netcoreapp2.1\WebSalesMvc.csproj.CoreCompileInputs.cache
+G:\Projetos\Csharp\WebSalesMvc\WebSalesMvc\WebSalesMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departamento\Index.cshtml.g.cs
